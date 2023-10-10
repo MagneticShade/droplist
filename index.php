@@ -105,7 +105,7 @@ while($test=mysqli_fetch_assoc($result)){
     ?>  
     </select>
     <input type="button" value="ОТПРАВИТЬ" id="send">
-    <table>
+    <table id="entries">
         
     </table>
     <script src="script.js"></script>
